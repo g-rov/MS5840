@@ -16,3 +16,7 @@ Repository Contents
 
 Usage
 -------------------
+
+* Create a folder named "MS5840" in the Arduino user libraries folder (eg. for Windows: "C:\Users\username\Documents\Arduino\libraries")
+* Add the contents of this repository to this folder
+* Restart Arduino IDE and the library should appear in Sketch > Include libraries ... and in File > Examples
