@@ -22,4 +22,4 @@ Usage
 * Restart Arduino IDE and the library should appear in Sketch > Include libraries ... and in File > Examples
 
 
-##### Based on: Sparkfun MS5803-14BA Pressure Sensor library
+###### Based on: Sparkfun MS5803-14BA Pressure Sensor library
